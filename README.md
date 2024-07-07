@@ -4,6 +4,6 @@ This is simple react project created after strong understanding of states and AP
 
 # Use
 
-Just enter your city name and it gives you current weather report of your city, if your city not exist in API it give you 'city not exist'.
+Just enter your city name and it gives you current weather report of your city, if your city not exist in API it give you 'city not exist.
 
 
